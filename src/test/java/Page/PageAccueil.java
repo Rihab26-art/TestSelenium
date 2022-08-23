@@ -35,7 +35,7 @@ public class PageAccueil {
 	public void clickButton(){
 		button.click();
 		System.out.println("ok");
-
+		//Hello Cap
 	}
 	
 }
